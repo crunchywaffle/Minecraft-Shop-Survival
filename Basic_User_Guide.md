@@ -3,7 +3,7 @@ If you think you might need help later or have poor memory, keep this document o
 
 The small prerequesite to uploading worlds and using this entire system is to have a Github account, so I can add you as a collaborator.
 
-#Uploading Worlds
+# Uploading Worlds
 After every session on the world, whether it be on the server or clientside, you'll want to upload the world file so other people can see and interact with your changes.
 
 1. Above the list of files in this repository is a button labeled, "Upload Files". Clicking it will bring you to a page in which you can either open up you computer's file explorer or just drag-and-drop files in. Add the Minecraft world folder; this may take a while. If you're extra cool, you can also zip the world folder to make it easier on everybody, although it's not a requirement if you don't know how to do so.
@@ -13,7 +13,7 @@ After every session on the world, whether it be on the server or clientside, you
 4. Github will now take a second(a while) to upload the world. As far as I can tell, you're free to do whatever at this point, including close the tab while it's working. The world has finished uploading, and you're done.
 
 
-#Downloading Worlds
+# Downloading Worlds
 To actually make use of a world file, you'll have to download it from this Github repository.
 
 1. Find the most recent version of the world and click it. I think Github adds the most recent files to the top of the file list, but just in case, you should use the upload dates of the files to find it.
